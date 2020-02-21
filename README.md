@@ -26,6 +26,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React js is a library for javascript. It is used to  by developers to build large scale applications effectively. It also allows the developer to write more vanilla js which helps improve the js use and knowledge.
+
 - [ ] What does it mean to _think_ in react?
 
 This means to break the DOM into individual components and share/reuse them to make rendering faster and to help not bog down a server
