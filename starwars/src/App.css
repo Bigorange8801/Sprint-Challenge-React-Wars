@@ -6,3 +6,29 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+.character-card{
+background:#455b80;
+margin: 10px;
+padding: 5px;
+border-radius: 10px;
+border: 2px #5c0000 solid;
+}
+
+
+.character-head{
+  background:#455b80;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px #5c0000 solid;
+font-size:2rem;
+font-style:italic;
+}
+
+
+.card-style{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-around;
+}
