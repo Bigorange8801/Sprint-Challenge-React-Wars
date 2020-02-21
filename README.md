@@ -28,11 +28,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What does it mean to _think_ in react?
 
+This means to break the DOM into individual components and share/reuse them to make rendering faster and to help not bog down a server
+
 - [ ] Describe state.
+
+State is stored data so that compents can call them as needed.
 
 - [ ] Describe props.
 
+Props is a place holder of data to share between all components.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+It is a general concept about behaviours of functions. They sync by being imported and rendered in the components and js pages.
 
 ## Project Set Up
 
